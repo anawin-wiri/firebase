@@ -60,5 +60,4 @@ class DefaultFirebaseOptions {
     authDomain: 'fir-flutter-codelab-d34b3.firebaseapp.com',
     storageBucket: 'fir-flutter-codelab-d34b3.appspot.com',
   );
-
 }
